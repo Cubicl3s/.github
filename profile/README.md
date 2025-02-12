@@ -19,7 +19,6 @@
 
 ## 📌 **Program at a Glance**  
 
-- 🎯 **Duration:** 50-75 Days  
 - 🚀 **Domains Covered:**  
   - Web Development  
   - Mobile App Development  
