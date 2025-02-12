@@ -1,6 +1,6 @@
 # **Cubicles: Hands-on Project Development for Students**  
 
-<img src="../Images/Cubicles_image.png" alt="Cubicles Logo" width="400"/>
+<img src="../Images/Cubicles_image.png" alt="Cubicles Logo"/>
 
 ### **Empowering AIML Students with Real-World Project Development**  
 
